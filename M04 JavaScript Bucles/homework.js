@@ -128,6 +128,7 @@ function operadoresLogicos(num1, num2, num3) {
    // Si todos los argumentos son cero, retornar ---> "Error".
    // Si no se cumple ninguna de las condiciones anteriores, retornar false.
    // Tu código:
+   
    // Comprobamos si alguno de los números es negativo
   if (num1 < 0 || num2 < 0 || num3 < 0) {
    return "Hay negativos";
